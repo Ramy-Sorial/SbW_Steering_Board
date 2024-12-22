@@ -1,0 +1,177 @@
+Added Component: Designator=C?(CAPC1608X10N)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X10N)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X10N)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X10N)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X10N)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X10N)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X10N)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X10N)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X10N)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X10N)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X10N)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X10N)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(QFP50P900X900X120-49N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DRV8305NQPHPRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/drv8305nqphprq1/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/drv8305-q1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DRV8305NQPHPRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-DRV8305NQPHPRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8305NQPHPRQ1?qs=GURawfaeGuDUup2b3CHJlw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X06N)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X06N)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X06N)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X06N)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X06N)
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=+12 Pin=C?-2
+Added Pin To Net: NetName=+12 Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=IC?-14
+Added Pin To Net: NetName=GND Pin=IC?-19
+Added Pin To Net: NetName=GND Pin=IC?-20
+Added Pin To Net: NetName=GND Pin=IC?-26
+Added Pin To Net: NetName=+12 Pin=IC?-41
+Added Pin To Net: NetName=GND Pin=IC?-45
+Added Pin To Net: NetName=GND Pin=IC?-49
+Added Pin To Net: NetName=+12 Pin=R?-2
+Added Pin To Net: NetName=NetJleft_1_1 Pin=R?-2
+Added Pin To Net: NetName=NetJright_3_1 Pin=R?-2
+Added Pin To Net: NetName=AVCC Pin=C?-2
+Added Pin To Net: NetName=AVCC Pin=IC?-48
+Added Net: Name=AVCC
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=IC?-43
+Added Net: Name=NetC?_1
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=IC?-42
+Added Net: Name=NetC?_2
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Added Pin To Net: NetName=NetIC?_1 Pin=IC?-1
+Added Net: Name=NetIC?_1
+Added Pin To Net: NetName=NetIC?_2 Pin=IC?-2
+Added Net: Name=NetIC?_2
+Added Pin To Net: NetName=NetIC?_3 Pin=IC?-3
+Added Net: Name=NetIC?_3
+Added Pin To Net: NetName=NetIC?_4 Pin=IC?-4
+Added Net: Name=NetIC?_4
+Added Pin To Net: NetName=NetIC?_5 Pin=IC?-5
+Added Net: Name=NetIC?_5
+Added Pin To Net: NetName=NetIC?_6 Pin=IC?-6
+Added Net: Name=NetIC?_6
+Added Pin To Net: NetName=NetIC?_7 Pin=IC?-7
+Added Net: Name=NetIC?_7
+Added Pin To Net: NetName=NetIC?_8 Pin=IC?-8
+Added Net: Name=NetIC?_8
+Added Pin To Net: NetName=NetIC?_9 Pin=IC?-9
+Added Net: Name=NetIC?_9
+Added Pin To Net: NetName=NetIC?_10 Pin=IC?-10
+Added Net: Name=NetIC?_10
+Added Pin To Net: NetName=NetIC?_11 Pin=IC?-11
+Added Net: Name=NetIC?_11
+Added Pin To Net: NetName=NetIC?_12 Pin=IC?-12
+Added Net: Name=NetIC?_12
+Added Pin To Net: NetName=NetIC?_16 Pin=IC?-16
+Added Pin To Net: NetName=NetIC?_16 Pin=R?-2
+Added Net: Name=NetIC?_16
+Added Pin To Net: NetName=NetIC?_17 Pin=IC?-17
+Added Pin To Net: NetName=NetIC?_17 Pin=R?-2
+Added Net: Name=NetIC?_17
+Added Pin To Net: NetName=NetIC?_22 Pin=IC?-22
+Added Pin To Net: NetName=NetIC?_22 Pin=Jright_1-1
+Added Net: Name=NetIC?_22
+Added Pin To Net: NetName=NetIC?_24 Pin=IC?-24
+Added Pin To Net: NetName=NetIC?_24 Pin=Jleft_3-1
+Added Net: Name=NetIC?_24
+Added Pin To Net: NetName=NetIC?_25 Pin=IC?-25
+Added Pin To Net: NetName=NetIC?_25 Pin=Jbot_6-1
+Added Net: Name=NetIC?_25
+Added Pin To Net: NetName=NetIC?_27 Pin=IC?-27
+Added Pin To Net: NetName=NetIC?_27 Pin=Jbot_5-1
+Added Net: Name=NetIC?_27
+Added Pin To Net: NetName=NetIC?_28 Pin=IC?-28
+Added Pin To Net: NetName=NetIC?_28 Pin=Jbot_4-1
+Added Net: Name=NetIC?_28
+Added Pin To Net: NetName=NetIC?_29 Pin=IC?-29
+Added Pin To Net: NetName=NetIC?_29 Pin=Jright_2-1
+Added Net: Name=NetIC?_29
+Added Pin To Net: NetName=NetIC?_30 Pin=IC?-30
+Added Pin To Net: NetName=NetIC?_30 Pin=Jright_5-1
+Added Net: Name=NetIC?_30
+Added Pin To Net: NetName=NetIC?_31 Pin=IC?-31
+Added Pin To Net: NetName=NetIC?_31 Pin=Jright_4-1
+Added Net: Name=NetIC?_31
+Added Pin To Net: NetName=NetIC?_32 Pin=IC?-32
+Added Pin To Net: NetName=NetIC?_32 Pin=Jright_6-1
+Added Net: Name=NetIC?_32
+Added Pin To Net: NetName=NetIC?_33 Pin=IC?-33
+Added Pin To Net: NetName=NetIC?_33 Pin=Jleft_6-1
+Added Net: Name=NetIC?_33
+Added Pin To Net: NetName=NetIC?_34 Pin=IC?-34
+Added Pin To Net: NetName=NetIC?_34 Pin=Jleft_4-1
+Added Net: Name=NetIC?_34
+Added Pin To Net: NetName=NetIC?_35 Pin=IC?-35
+Added Pin To Net: NetName=NetIC?_35 Pin=Jleft_5-1
+Added Net: Name=NetIC?_35
+Added Pin To Net: NetName=NetIC?_36 Pin=IC?-36
+Added Pin To Net: NetName=NetIC?_36 Pin=Jleft_2-1
+Added Net: Name=NetIC?_36
+Added Pin To Net: NetName=NetIC?_44 Pin=IC?-44
+Added Pin To Net: NetName=NetIC?_44 Pin=R?-1
+Added Net: Name=NetIC?_44
+Added Pin To Net: NetName=V_BOOST Pin=C?-1
+Added Pin To Net: NetName=V_BOOST Pin=IC?-38
+Added Net: Name=V_BOOST
+Added Class: Name=Gate_Driver
+Added Room: Name=Gate_Driver
+Added Room: Name=Inverter

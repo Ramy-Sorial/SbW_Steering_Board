@@ -1,0 +1,73 @@
+Change Component Kind : Designator=Jright_1 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jright_2 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jright_3 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jleft_6 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jleft_7 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jleft_8 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jright_4 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jright_8 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jtop_1 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jtop_2 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jright_5 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jright_6 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jright_7 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jbot_4 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jbot_5 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jbot_6 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jbot_1 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jbot_2 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jbot_3 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jbot_7 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jleft_3 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jleft_4 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jleft_5 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jbot_8 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jleft_1 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=Jleft_2 Old Kind=Standard (No BOM) New Kind=Standard
+Added Pin To Net: NetName=+12 Pin=Jtop_2-1
+Added Net: Name=+12
+Added Pin To Net: NetName=GND Pin=Jbot_3-1
+Added Pin To Net: NetName=GND Pin=Jtop_1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetJbot_1_1 Pin=Jbot_1-1
+Added Net: Name=NetJbot_1_1
+Added Pin To Net: NetName=NetJbot_2_1 Pin=Jbot_2-1
+Added Net: Name=NetJbot_2_1
+Added Pin To Net: NetName=NetJbot_4_1 Pin=Jbot_4-1
+Added Net: Name=NetJbot_4_1
+Added Pin To Net: NetName=NetJbot_5_1 Pin=Jbot_5-1
+Added Net: Name=NetJbot_5_1
+Added Pin To Net: NetName=NetJbot_6_1 Pin=Jbot_6-1
+Added Net: Name=NetJbot_6_1
+Added Pin To Net: NetName=NetJbot_7_1 Pin=Jbot_7-1
+Added Net: Name=NetJbot_7_1
+Added Pin To Net: NetName=NetJleft_1_1 Pin=Jleft_1-1
+Added Net: Name=NetJleft_1_1
+Added Pin To Net: NetName=NetJleft_2_1 Pin=Jleft_2-1
+Added Net: Name=NetJleft_2_1
+Added Pin To Net: NetName=NetJleft_3_1 Pin=Jleft_3-1
+Added Net: Name=NetJleft_3_1
+Added Pin To Net: NetName=NetJleft_4_1 Pin=Jleft_4-1
+Added Net: Name=NetJleft_4_1
+Added Pin To Net: NetName=NetJleft_5_1 Pin=Jleft_5-1
+Added Net: Name=NetJleft_5_1
+Added Pin To Net: NetName=NetJleft_6_1 Pin=Jleft_6-1
+Added Net: Name=NetJleft_6_1
+Added Pin To Net: NetName=NetJleft_7_1 Pin=Jleft_7-1
+Added Net: Name=NetJleft_7_1
+Added Pin To Net: NetName=NetJright_1_1 Pin=Jright_1-1
+Added Net: Name=NetJright_1_1
+Added Pin To Net: NetName=NetJright_2_1 Pin=Jright_2-1
+Added Net: Name=NetJright_2_1
+Added Pin To Net: NetName=NetJright_3_1 Pin=Jright_3-1
+Added Net: Name=NetJright_3_1
+Added Pin To Net: NetName=NetJright_4_1 Pin=Jright_4-1
+Added Net: Name=NetJright_4_1
+Added Pin To Net: NetName=NetJright_5_1 Pin=Jright_5-1
+Added Net: Name=NetJright_5_1
+Added Pin To Net: NetName=NetJright_6_1 Pin=Jright_6-1
+Added Net: Name=NetJright_6_1
+Added Pin To Net: NetName=NetJright_7_1 Pin=Jright_7-1
+Added Net: Name=NetJright_7_1
+Added Class: Name=Inverter
+Added Room: Name=Inverter

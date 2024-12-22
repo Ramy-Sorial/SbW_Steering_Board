@@ -1,0 +1,20 @@
+Added Pin To Net: NetName=C_S_L Pin=C125-1
+Added Pin To Net: NetName=VDD Pin=C125-2
+Added Pin To Net: NetName=VDD Pin=C126-1
+Added Pin To Net: NetName=NetC126_2 Pin=C126-2
+Added Pin To Net: NetName=NetC115_2 Pin=Y101-1
+Added Pin To Net: NetName=C_S_L Pin=Y101-2
+Added Pin To Net: NetName=NetC116_2 Pin=Y101-3
+Added Pin To Net: NetName=C_S_L Pin=Y101-4
+Add Net: Net with name "A_H" already exists
+Add Net: Net with name "A_L" already exists
+Add Net: Net with name "B_H" already exists
+Add Net: Net with name "B_L" already exists
+Add Net: Net with name "C_H" already exists
+Add Net: Net with name "C_L" already exists
+Added Member To Class: ClassName=Main_CPU Member=Component C125 Cap
+Added Member To Class: ClassName=Main_CPU Member=Component C126 Cap
+Added Member To Class: ClassName=Main_CPU Member=Component Y101
+Added Room: Name=Gate_Driver
+Added Room: Name=Inverter
+Added Room: Name=Main_CPU
