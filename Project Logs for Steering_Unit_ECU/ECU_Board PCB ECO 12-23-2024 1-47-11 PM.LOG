@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=NetJ105_1 Pin=J105-1
+Removed Pin From Net: NetName=NetJ105_2 Pin=J105-2
+Removed Pin From Net: NetName=NetJ105_3 Pin=J105-3
+Removed Pin From Net: NetName=NetJ105_4 Pin=J105-4
+Removed Pin From Net: NetName=NetJ105_5 Pin=J105-5
+Removed Pin From Net: NetName=AGND Pin=J105-6
+Add Pin To Net: Unknown Pin: Pin J101-1
+Add Pin To Net: Unknown Pin: Pin J101-2
+Add Pin To Net: Unknown Pin: Pin J101-3
+Add Pin To Net: Unknown Pin: Pin J101-4
+Add Pin To Net: Unknown Pin: Pin J102-1
+Add Pin To Net: Unknown Pin: Pin J102-2
+Add Pin To Net: Unknown Pin: Pin J102-3
+Add Pin To Net: Unknown Pin: Pin J102-4
+Add Pin To Net: Unknown Pin: Pin J103-1
+Add Pin To Net: Unknown Pin: Pin J103-2
+Add Pin To Net: Unknown Pin: Pin J103-3
+Add Pin To Net: Unknown Pin: Pin J105-1
+Add Pin To Net: Unknown Pin: Pin J105-2
+Add Pin To Net: Unknown Pin: Pin J105-3
+Add Pin To Net: Unknown Pin: Pin J105-4
+Add Pin To Net: Unknown Pin: Pin J105-5
+Add Pin To Net: Unknown Pin: Pin J105-6
+Add Pin To Net: Unknown Pin: Pin J106-1
+Add Pin To Net: Unknown Pin: Pin J106-2
+Add Pin To Net: Unknown Pin: Pin J106-3
+Add Pin To Net: Unknown Pin: Pin J106-4
+Add Pin To Net: Unknown Pin: Pin J106-5
+Add Pin To Net: Unknown Pin: Pin J106-6
+Add Pin To Net: Unknown Pin: Pin J106-7
+Add Pin To Net: Unknown Pin: Pin J106-8
+Add Pin To Net: Unknown Pin: Pin J107-1
+Add Pin To Net: Unknown Pin: Pin J107-2
+Add Pin To Net: Unknown Pin: Pin J107-3
+Add Pin To Net: Unknown Pin: Pin J108-1
+Add Pin To Net: Unknown Pin: Pin J108-2
+Add Pin To Net: Unknown Pin: Pin J108-3

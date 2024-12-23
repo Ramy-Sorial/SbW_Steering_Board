@@ -1,0 +1,53 @@
+Change Component Comment : Designator=FB101 Old Comment=BLM18KG471SN1D New Comment=470 OHM
+Change Component Kind : Designator=JP302 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=JP301 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "FB101" ("FB101"); Footprint = "BLM18SP221SN1B"; UniqueID = "\GUQCNMXQ" ("\GUQCNMXQ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "BLM18KG471SN1D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/blm18kg471sn1d/murata-manufacturing?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Ferrite-Beads_Murata-Electronics-BLM18KG471SN1D_C413961.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-BLM18KG471SN1D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/BLM18KG471SN1D?qs=rvfpa0%252BU10NIg0zs9veElg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "BLM18KG471SN1D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y101" ("Y101"); Footprint = "830105863709"; UniqueID = "\PJWVFBYG" ("\PJWVFBYG")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.we-online.com/catalog/datasheet/830105863709.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Crystals_YXC-Crystal-Oscillators-XL2EL89COI-111YLC-8M_C2973805.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-830105863709"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/830105863709?qs=hd1VzrDQEGgXVxZIC%252BUALw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "XL2EL89COI-111YLC-8M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.115"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "8MHz"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J101-1
+Add Pin To Net: Unknown Pin: Pin J101-2
+Add Pin To Net: Unknown Pin: Pin J101-3
+Add Pin To Net: Unknown Pin: Pin J101-4
+Add Pin To Net: Unknown Pin: Pin J102-1
+Add Pin To Net: Unknown Pin: Pin J102-2
+Add Pin To Net: Unknown Pin: Pin J102-3
+Add Pin To Net: Unknown Pin: Pin J102-4
+Add Pin To Net: Unknown Pin: Pin J103-1
+Add Pin To Net: Unknown Pin: Pin J103-2
+Add Pin To Net: Unknown Pin: Pin J103-3
+Add Pin To Net: Unknown Pin: Pin J106-1
+Add Pin To Net: Unknown Pin: Pin J106-2
+Add Pin To Net: Unknown Pin: Pin J106-3
+Add Pin To Net: Unknown Pin: Pin J106-4
+Add Pin To Net: Unknown Pin: Pin J106-5
+Add Pin To Net: Unknown Pin: Pin J106-6
+Add Pin To Net: Unknown Pin: Pin J106-7
+Add Pin To Net: Unknown Pin: Pin J106-8
+Add Pin To Net: Unknown Pin: Pin J107-1
+Add Pin To Net: Unknown Pin: Pin J107-2
+Add Pin To Net: Unknown Pin: Pin J107-3
+Add Pin To Net: Unknown Pin: Pin J108-1
+Add Pin To Net: Unknown Pin: Pin J108-2
+Add Pin To Net: Unknown Pin: Pin J108-3
+Added Member To Class: ClassName=U_Dig_Encoder_Interface Member=Component C406 Cap
+Added Room: Name=U_Dig_Encoder_Interface

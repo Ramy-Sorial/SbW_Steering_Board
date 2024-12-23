@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=TH1 Pin=Jbot_502-1
+Added Component: Designator=NT?(Net_Tie_SMD)
+Added Pin To Net: NetName=TH1 Pin=NT?-2
+Change Net Name : Old Net Name=TH1 New Net Name=AVCC
+Added Pin To Net: NetName=TH1 Pin=Jbot_502-1
+Added Pin To Net: NetName=TH1 Pin=NT?-1
+Added Net: Name=TH1
+Added Member To Class: ClassName=Main_CPU Member=Component NT? Net_Tie
+Added Room: Name=Main_CPU
+Added Room: Name=U_Analog_Signal_Cond
+Added Room: Name=U_Dig_Encoder_Interface
+Added Room: Name=U_Gate_Driver
+Added Room: Name=U_Inverter

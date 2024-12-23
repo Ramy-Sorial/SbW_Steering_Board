@@ -1,0 +1,27 @@
+Change component parameters: Designator = "IC202" ("IC202"); Footprint = "SOP50P810X120-57N"; UniqueID = "\RUYCLGTK\YKQNOONA" ("\RUYCLGTK\YKQNOONA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "DRV8301DCAR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "null?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/drv8301"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "https://jlcpcb.com/partdetail/TexasInstruments-DRV8301DCAR/C98969"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-DRV8301DCAR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8301DCAR?qs=SMj%252Bbyv09TwYHebRFanjcw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "DRV8301DCAR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "2.4675"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC401" ("IC401"); Footprint = "SOP65P640X120-14N"; UniqueID = "\HRNIKGVO\RKOPDKOW" ("\HRNIKGVO\RKOPDKOW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SN74HC14PWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sn74hc14pwr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "https://jlcpcb.com/partdetail/TexasInstruments-SN74HC14PWR/C6821"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-SN74HC14PWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74HC14PWR?qs=YEaxc5757jODQ8PDizZzPA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "SN74HC14PWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.1209"; VariantName = "[No Variations]"
+Added Room: Name=Main_CPU
+Added Room: Name=U_Analog_Signal_Cond
+Added Room: Name=U_Dig_Encoder_Interface
+Added Room: Name=U_Gate_Driver
+Added Room: Name=U_Inverter

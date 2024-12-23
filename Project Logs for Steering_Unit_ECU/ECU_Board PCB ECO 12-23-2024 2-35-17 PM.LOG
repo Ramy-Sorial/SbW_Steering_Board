@@ -1,0 +1,13 @@
+Added Component: Designator=J106(XH2.54-8P)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Wire-To-Board-Connector_Megastar-ZX-XH2-54-8PZZ_C7429638.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ZX-XH2.54-8PZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0347"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=J106-1
+Added Pin To Net: NetName=nRST Pin=J106-2
+Added Pin To Net: NetName=BOOT Pin=J106-3
+Added Pin To Net: NetName=SWDIO Pin=J106-4
+Added Pin To Net: NetName=SWCLK Pin=J106-5
+Added Pin To Net: NetName=UART1_RX Pin=J106-6
+Added Pin To Net: NetName=UART1_TX Pin=J106-7
+Added Pin To Net: NetName=GND Pin=J106-8
+Added Member To Class: ClassName=Main_CPU Member=Component J106 XH2_54_8p
