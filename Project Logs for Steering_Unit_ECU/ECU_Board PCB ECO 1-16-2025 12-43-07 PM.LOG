@@ -1,0 +1,32 @@
+Add Component: Footprint Not Found SP0503BAHTG
+Add Component: Footprint Not Found SMF70AHE3TP
+Add Component: Footprint Not Found SOT229P700X180-4N
+Add Component: Footprint Not Found PCB_CONN_6
+Add Component: Footprint Not Found LEDC1608X80N
+Add Component: Footprint Not Found LEDC1608X80N
+Add Pin To Net: Unknown Pin: Pin D107-1
+Add Pin To Net: Unknown Pin: Pin D107-2
+Add Pin To Net: Unknown Pin: Pin D107-3
+Add Pin To Net: Unknown Pin: Pin D107-4
+Add Pin To Net: Unknown Pin: Pin D301-1
+Add Pin To Net: Unknown Pin: Pin D301-2
+Add Pin To Net: Unknown Pin: Pin IC203-1
+Add Pin To Net: Unknown Pin: Pin IC203-2
+Add Pin To Net: Unknown Pin: Pin IC203-3
+Add Pin To Net: Unknown Pin: Pin IC203-4
+Add Pin To Net: Unknown Pin: Pin J301-1
+Add Pin To Net: Unknown Pin: Pin J301-2
+Add Pin To Net: Unknown Pin: Pin J301-3
+Add Pin To Net: Unknown Pin: Pin J301-4
+Add Pin To Net: Unknown Pin: Pin J301-5
+Add Pin To Net: Unknown Pin: Pin J301-6
+Add Pin To Net: Unknown Pin: Pin LED106-1
+Add Pin To Net: Unknown Pin: Pin LED106-2
+Add Pin To Net: Unknown Pin: Pin LED107-1
+Add Pin To Net: Unknown Pin: Pin LED107-2
+Add Class Member: Failed to add class member : Component D107 SP0503BAHTG
+Add Class Member: Failed to add class member : Component D301 SMF7.0AHE3-TP
+Add Class Member: Failed to add class member : Component IC203 AMS1117-5
+Add Class Member: Failed to add class member : Component J301 PCB_Conn_6P
+Add Class Member: Failed to add class member : Component LED106 Green
+Add Class Member: Failed to add class member : Component LED107 Blue

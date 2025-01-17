@@ -1,0 +1,82 @@
+Added Component: Designator=D107(SP0503BAHTG)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SP0503BAHTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sp0503bahtg/littelfuse?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://nl.mouser.com/datasheet/2/240/Littelfuse_TVS_Diode_Array_SP05_Datasheet.pdf-777043.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.22mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/ESD-and-Surge-Protection-TVS-ESD_Littelfuse-SP0503BAHTG_C7074.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-SP0503BAHTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/SP0503BAHTG?qs=uD%2FdkN7XIa0NTYXwHdELYA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "SP0503BAHTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1508"; VariantName = "[No Variations]"
+Added Component: Designator=D301(SMF70AHE3TP)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mccsemi.com/pdf/Products/SMF5.0AHE3_SMF100AHE3(SOD-123FL).pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/ESD-and-Surge-Protection-TVS-ESD_GOODWORK-SMF7-0A_C2943869.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "MCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "SMF7.0A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0231"; VariantName = "[No Variations]"
+Added Component: Designator=IC203(SOT229P700X180-4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-28/DSA-550594.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_Texas-Instruments-LM1117IMPX-5-0-NOPB_C41202.html?s_z=n_LM1117"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Advanced"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "LM1117IMPX-5.0/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.31"; VariantName = "[No Variations]"
+Added Component: Designator=J301(PCB_CONN_6)
+Added Component: Designator=LED106(LEDC1608X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/LED-Indication-Discrete_XINGLIGHT-XL-1608UGC-04_C965804.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-150060SS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150060SS75000?qs=LlUlMxKIyB0oQaxwspeTEA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "XL-1608UGC-04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0041"; VariantName = "[No Variations]"
+Added Component: Designator=LED107(LEDC1608X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/LED-Indication-Discrete_XINGLIGHT-XL-1608UBC-04_C965807.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-150060SS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150060SS75000?qs=LlUlMxKIyB0oQaxwspeTEA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "XL-1608UBC-04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0033"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D107-1
+Added Pin To Net: NetName=NetD107_2 Pin=D107-2
+Added Pin To Net: NetName=NetD107_3 Pin=D107-3
+Added Pin To Net: NetName=NetD107_4 Pin=D107-4
+Added Pin To Net: NetName=NetD301_1 Pin=D301-1
+Added Pin To Net: NetName=AGND Pin=D301-2
+Added Pin To Net: NetName=GND Pin=IC203-1
+Added Pin To Net: NetName=+5V Pin=IC203-2
+Added Pin To Net: NetName=+7V5 Pin=IC203-3
+Added Pin To Net: NetName=+5V Pin=IC203-4
+Added Pin To Net: NetName=+5V Pin=J301-1
+Added Pin To Net: NetName=OP_1 Pin=J301-2
+Added Pin To Net: NetName=ON_1 Pin=J301-3
+Added Pin To Net: NetName=OP_2 Pin=J301-4
+Added Pin To Net: NetName=ON_2 Pin=J301-5
+Added Pin To Net: NetName=AGND Pin=J301-6
+Added Pin To Net: NetName=NetLED106_1 Pin=LED106-1
+Added Pin To Net: NetName=UART1_TX Pin=LED106-2
+Added Pin To Net: NetName=NetLED107_1 Pin=LED107-1
+Added Pin To Net: NetName=UART1_RX Pin=LED107-2
+Added Member To Class: ClassName=Main_CPU Member=Component D107 SP0503BAHTG
+Added Member To Class: ClassName=U_Analog_Signal_Cond Member=Component D301 SMF7.0AHE3-TP
+Added Member To Class: ClassName=U_Gate_Driver Member=Component IC203 AMS1117-5
+Added Member To Class: ClassName=U_Analog_Signal_Cond Member=Component J301 PCB_Conn_6P
+Added Member To Class: ClassName=Main_CPU Member=Component LED106 Green
+Added Member To Class: ClassName=Main_CPU Member=Component LED107 Blue

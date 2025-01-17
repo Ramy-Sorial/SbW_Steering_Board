@@ -1,0 +1,124 @@
+Added Component: Designator=C227(CAPC1005X06N)
+Add component (AddParameter): Name = "Link"; Value = "https://jlcpcb.com/partdetail/172547-GCM155R71C683KA55D/C161166"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GCM155R71C683KA55D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0075"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "68nF"; VariantName = "[No Variations]"
+Added Component: Designator=C308(CAPC1005X06N)
+Add component (AddParameter): Name = "Link"; Value = "https://jlcpcb.com/partdetail/MurataElectronics-GCM155R71H104KE02D/C85858"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0031"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C309(CAPC1005X06N)
+Add component (AddParameter): Name = "Link"; Value = "https://jlcpcb.com/partdetail/3478404-GRM155Z71A225KE44D/C2999759"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155Z71A225KE44D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0332"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Added Component: Designator=C310(CAPC1005X06N)
+Add component (AddParameter): Name = "Link"; Value = "https://jlcpcb.com/partdetail/548880-GRM155Z71A105KE01D/C528974"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155Z71A105KE01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SP0503BAHTG
+Add Component: Footprint Not Found SMF70AHE3TP
+Add Component: Footprint Not Found PCB_CONN_6
+Add Component: Footprint Not Found LEDC1608X80N
+Add Component: Footprint Not Found LEDC1608X80N
+Added Component: Designator=R127(RESC1005X04N)
+Add component (AddParameter): Name = "Link"; Value = "RC0402FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R128(RESC1005X04N)
+Add component (AddParameter): Name = "Link"; Value = "RC0402FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R129(RESC1005X04N)
+Add component (AddParameter): Name = "Link"; Value = "https://jlcpcb.com/partdetail/Yageo-RC0402FR0722RL/C114765"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-0722RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R313(RESC1005X04N)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Viking-Tech-AR02BTD2402_C319712.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AR02BTD2402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0229"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "24K 0.1%"; VariantName = "[No Variations]"
+Added Component: Designator=R314(RESC1005X04N)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Viking-Tech-AR02BTD2402_C319712.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AR02BTD2402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0229"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "24K 0.1%"; VariantName = "[No Variations]"
+Added Component: Designator=R315(RESC1005X04N)
+Add component (AddParameter): Name = "Link"; Value = "https://jlcpcb.com/partdetail/Yageo-RC0402FR073K3L/C137992"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-073K3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3K3"; VariantName = "[No Variations]"
+Added Component: Designator=R316(RESC1005X04N)
+Add component (AddParameter): Name = "Link"; Value = "RC0402FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R317(RESC1005X04N)
+Add component (AddParameter): Name = "Link"; Value = "https://jlcpcb.com/partdetail/Yageo-RC0402FR075K6L/C163457"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-075K6L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5K6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C227-1
+Added Pin To Net: NetName=NetC227_2 Pin=C227-2
+Added Pin To Net: NetName=AGND Pin=C308-1
+Added Pin To Net: NetName=+5V Pin=C308-2
+Added Pin To Net: NetName=AGND Pin=C309-1
+Added Pin To Net: NetName=NetC309_2 Pin=C309-2
+Added Pin To Net: NetName=NetC310_1 Pin=C310-1
+Added Pin To Net: NetName=AGND Pin=C310-2
+Add Pin To Net: Unknown Pin: Pin D107-1
+Add Pin To Net: Unknown Pin: Pin D107-2
+Add Pin To Net: Unknown Pin: Pin D107-3
+Add Pin To Net: Unknown Pin: Pin D107-4
+Add Pin To Net: Unknown Pin: Pin D301-1
+Add Pin To Net: Unknown Pin: Pin D301-2
+Added Pin To Net: NetName=NetD107_3 Pin=J110-3
+Add Pin To Net: Unknown Pin: Pin J301-1
+Add Pin To Net: Unknown Pin: Pin J301-2
+Add Pin To Net: Unknown Pin: Pin J301-3
+Add Pin To Net: Unknown Pin: Pin J301-4
+Add Pin To Net: Unknown Pin: Pin J301-5
+Add Pin To Net: Unknown Pin: Pin J301-6
+Add Pin To Net: Unknown Pin: Pin LED106-1
+Add Pin To Net: Unknown Pin: Pin LED106-2
+Add Pin To Net: Unknown Pin: Pin LED107-1
+Add Pin To Net: Unknown Pin: Pin LED107-2
+Added Pin To Net: NetName=NetLED107_1 Pin=R127-1
+Added Pin To Net: NetName=VDD Pin=R127-2
+Added Pin To Net: NetName=NetLED106_1 Pin=R128-1
+Added Pin To Net: NetName=VDD Pin=R128-2
+Added Pin To Net: NetName=NetD107_3 Pin=R129-1
+Added Pin To Net: NetName=USB_D_P Pin=R129-2
+Added Pin To Net: NetName=NetC309_2 Pin=R313-1
+Added Pin To Net: NetName=AVCC Pin=R313-2
+Added Pin To Net: NetName=AGND Pin=R314-1
+Added Pin To Net: NetName=NetC309_2 Pin=R314-2
+Added Pin To Net: NetName=ADC_POS Pin=R315-1
+Added Pin To Net: NetName=NetIC302_13 Pin=R315-2
+Added Pin To Net: NetName=NetC310_1 Pin=R316-1
+Added Pin To Net: NetName=NetD301_1 Pin=R316-2
+Added Pin To Net: NetName=ADC_POS Pin=R317-1
+Added Pin To Net: NetName=AGND Pin=R317-2
+Added Member To Class: ClassName=U_Gate_Driver Member=Component C227 Cap
+Added Member To Class: ClassName=U_Analog_Signal_Cond Member=Component C308 Cap
+Added Member To Class: ClassName=U_Analog_Signal_Cond Member=Component C309 Cap
+Added Member To Class: ClassName=U_Analog_Signal_Cond Member=Component C310 Cap
+Add Class Member: Failed to add class member : Component D107 SP0503BAHTG
+Add Class Member: Failed to add class member : Component D301 SMF7.0AHE3-TP
+Added Member To Class: ClassName=U_Analog_Signal_Cond Member=Component IC301 INA333AIDGKR
+Add Class Member: Failed to add class member : Component J301 PCB_Conn_6P
+Add Class Member: Failed to add class member : Component LED106 Green
+Add Class Member: Failed to add class member : Component LED107 Blue
+Added Member To Class: ClassName=Main_CPU Member=Component R127 R
+Added Member To Class: ClassName=Main_CPU Member=Component R128 R
+Added Member To Class: ClassName=Main_CPU Member=Component R129 R
+Added Member To Class: ClassName=U_Analog_Signal_Cond Member=Component R313 R
+Added Member To Class: ClassName=U_Analog_Signal_Cond Member=Component R314 R
+Added Member To Class: ClassName=U_Analog_Signal_Cond Member=Component R315 R
+Added Member To Class: ClassName=U_Analog_Signal_Cond Member=Component R316 R
+Added Member To Class: ClassName=U_Analog_Signal_Cond Member=Component R317 R

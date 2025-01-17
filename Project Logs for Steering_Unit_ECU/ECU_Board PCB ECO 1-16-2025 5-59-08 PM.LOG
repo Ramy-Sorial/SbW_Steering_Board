@@ -1,0 +1,19 @@
+Change Footprint: Footprint Not Found SODFL1608X70N
+Change Footprint: Footprint Not Found SODFL1608X70N
+Change Footprint: Footprint Not Found SODFL1608X70N
+Change Footprint: Footprint Not Found SODFL1608X70N
+Change Footprint: Footprint Not Found SODFL1608X70N
+Change Footprint: Footprint Not Found SODFL1608X70N
+Add object: Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))
+Add Pin To Net: Unknown Pin: Pin J105-1
+Add Pin To Net: Unknown Pin: Pin J105-2
+Add Pin To Net: Unknown Pin: Pin J105-3
+Add Pin To Net: Unknown Pin: Pin J105-4
+Add Pin To Net: Unknown Pin: Pin J105-5
+Add Pin To Net: Unknown Pin: Pin J105-6
+Add Class Member: Failed to add class member : Component J105 PCB_Conn_6P
+Added Room: Name=Main_CPU
+Added Room: Name=U_Analog_Signal_Cond
+Added Room: Name=U_Dig_Encoder_Interface
+Added Room: Name=U_Gate_Driver
+Added Room: Name=U_Inverter

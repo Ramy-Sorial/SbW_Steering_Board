@@ -1,0 +1,14 @@
+Added Component: Designator=D109(SODFL1006X45N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1SS416,L3M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1ss416l3m/toshiba?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://toshiba.semicon-storage.com/info/docget.jsp?did=344&prodName=1SS416"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Schottky-Diodes_TOSHIBA-1SS416-L3M-B_C2943683.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "757-1SS416L3M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/1SS416L3M?qs=G9o9YCnxvoYU%252BWabcXJZJg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "1SS416,L3M(B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0251"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=D109-1
+Added Pin To Net: NetName=NetD107_4 Pin=D109-2
+Added Member To Class: ClassName=Main_CPU Member=Component D109 1SS416,L3M

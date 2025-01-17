@@ -1,0 +1,5 @@
+Added Component: Designator=Jright_501(Pin_1.5mm)
+Add component (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/Female-Headers_XKB-Connection-X5511FV-02-C70D30-1000_C2684752.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "X5511FV-02-C70D30-1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0742"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_Inverter Member=Component Jright_501 Pin_1mm

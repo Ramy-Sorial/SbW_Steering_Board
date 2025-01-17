@@ -168,7 +168,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BMNYTLAN
 
 [Document8]
-DocumentPath=..\..\..\..\..\Documents\AltiumLL\SamacSys.PcbLib
+DocumentPath=..\..\..\Documents\AltiumLL\SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -185,7 +185,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MPRJBCLL
 
 [Document9]
-DocumentPath=..\..\..\..\..\Documents\AltiumLL\SamacSys.SchLib
+DocumentPath=..\..\..\Documents\AltiumLL\SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

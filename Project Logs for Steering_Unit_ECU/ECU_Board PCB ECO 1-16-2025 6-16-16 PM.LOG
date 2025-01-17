@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=+5V Pin=J106-1
+Removed Pin From Net: NetName=BOOT Pin=J106-3
+Removed Pin From Net: NetName=SWDIO Pin=J106-4
+Removed Pin From Net: NetName=SWCLK Pin=J106-5
+Removed Pin From Net: NetName=UART1_RX Pin=J106-6
+Removed Pin From Net: NetName=UART1_TX Pin=J106-7
+Removed Pin From Net: NetName=GND Pin=J106-8
+Change Footprint: Footprint Not Found TST-105-XX-Y-D
+Change Component Comment : Designator=J106 Old Comment=XH2_54_8p New Comment=TST-105-02-T-D
+Change component parameters: Designator = "J106" ("J106"); Footprint = "XH2.54-8P"; UniqueID = "\WTPRXMEW" ("\WTPRXMEW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TST-105-02-T-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tst-105-02-t-d/samtec?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/tst-1xx-xx-x-x-xx-xx-mkt.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.lcsc.com/product-detail/IDC-Connectors_Megastar-ZX-IDC2-54-2-5PZZ_C7501191.html?s_z=n_IDC%20Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "200-TST10502TD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/TST-105-02-T-D?qs=rU5fayqh%252BE1w4XXP0IOe8w%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "ZX-IDC2.54-2-5PZZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.1126"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SODFL1006X45N
+Add Pin To Net: Unknown Pin: Pin D?-1
+Add Pin To Net: Unknown Pin: Pin D?-2
+Added Pin To Net: NetName=VDD Pin=J106-1
+Added Pin To Net: NetName=UART1_RX Pin=J106-3
+Added Pin To Net: NetName=BOOT Pin=J106-4
+Added Pin To Net: NetName=UART1_TX Pin=J106-5
+Added Pin To Net: NetName=SWDIO Pin=J106-6
+Added Pin To Net: NetName=+5V Pin=J106-7
+Added Pin To Net: NetName=SWCLK Pin=J106-8
+Add Pin To Net: Unknown Pin: Pin J106-9
+Add Pin To Net: Unknown Pin: Pin J106-10
+Add Class Member: Failed to add class member : Component D? 1SS416,L3M
