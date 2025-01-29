@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=DC_BUS Pin=C205-2
+Removed Pin From Net: NetName=DC_BUS Pin=C207-1
+Removed Pin From Net: NetName=DC_BUS Pin=IC202-53
+Removed Pin From Net: NetName=DC_BUS Pin=IC202-54
+Change Component Library : Designator=D101 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=D102 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=D103 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=D104 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=D105 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=D301 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=J110 Old Library=* New Library=SamacSys.SchLib
+Change component parameters: Designator = "D101" ("D101"); Footprint = "SODFL1608X70N"; UniqueID = "\ASACTLSI" ("\ASACTLSI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/esd5z5.0t1g/on-semiconductor?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "863-ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/ESD5Z5.0T1G?qs=OSf9jACorvYw3fDx1S8P6A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D102" ("D102"); Footprint = "SODFL1608X70N"; UniqueID = "\DSNMWREU" ("\DSNMWREU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/esd5z5.0t1g/on-semiconductor?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "863-ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/ESD5Z5.0T1G?qs=OSf9jACorvYw3fDx1S8P6A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D103" ("D103"); Footprint = "SODFL1608X70N"; UniqueID = "\UBLMVQXS" ("\UBLMVQXS")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/esd5z5.0t1g/on-semiconductor?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "863-ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/ESD5Z5.0T1G?qs=OSf9jACorvYw3fDx1S8P6A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D104" ("D104"); Footprint = "SODFL1608X70N"; UniqueID = "\MHWUVTFI" ("\MHWUVTFI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/esd5z5.0t1g/on-semiconductor?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "863-ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/ESD5Z5.0T1G?qs=OSf9jACorvYw3fDx1S8P6A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D105" ("D105"); Footprint = "SODFL1608X70N"; UniqueID = "\AVXVKCJB" ("\AVXVKCJB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/esd5z5.0t1g/on-semiconductor?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "863-ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/ESD5Z5.0T1G?qs=OSf9jACorvYw3fDx1S8P6A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D301" ("D301"); Footprint = "SODFL1608X70N"; UniqueID = "\TEYIHEUM\LGZHSQHX" ("\TEYIHEUM\LGZHSQHX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/esd5z5.0t1g/on-semiconductor?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "863-ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/ESD5Z5.0T1G?qs=OSf9jACorvYw3fDx1S8P6A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J110" ("J110"); Footprint = "10119313301TLF"; UniqueID = "\KSYSCUUK" ("\KSYSCUUK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10119313.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "10119313-301TLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "649-10119313-301TLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/10119313-301TLF?qs=QcFhgjUTvvrAeUuachPUXg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DC_BUS Pin=C227-2
+Added Pin To Net: NetName=DC_BUS Pin=IC202-29
+Added Pin To Net: NetName=NetC205_2 Pin=C205-2
+Added Pin To Net: NetName=NetC205_2 Pin=C207-1
+Added Pin To Net: NetName=NetC205_2 Pin=IC202-53
+Added Pin To Net: NetName=NetC205_2 Pin=IC202-54
+Added Net: Name=NetC205_2
+Added Member To Class: ClassName=Main_CPU Member=Component IC101 STM32F405RGT6
+Added Member To Class: ClassName=Main_CPU Member=Component IC105 MAX3232CPWR
+Added Member To Class: ClassName=Main_CPU Member=Component J101 XH2_54_4p
+Added Member To Class: ClassName=Main_CPU Member=Component J106 TST-105-02-T-D
