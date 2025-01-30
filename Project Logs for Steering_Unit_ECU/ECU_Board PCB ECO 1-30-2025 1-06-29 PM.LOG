@@ -1,0 +1,98 @@
+Change Component Kind : Designator=Jright_501 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jright_502 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jright_503 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jleft_506 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jleft_507 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jleft_508 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jright_504 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jright_508 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jtop_501 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jtop_502 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jright_505 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jright_506 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jright_507 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jbot_504 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jbot_505 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jbot_506 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jbot_501 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jbot_502 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jbot_503 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jbot_507 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jleft_503 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jleft_504 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jleft_505 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jbot_508 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jleft_501 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Jleft_502 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "D101" ("D101"); Footprint = "SODFL1608X70N"; UniqueID = "\ASACTLSI" ("\ASACTLSI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/esd5z5.0t1g/on-semiconductor?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "https://www.lcsc.com/product-detail/ESD-and-Surge-Protection-TVS-ESD_BORN-ESD5Z5-0T1G_C343989.html?s_z=n_ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "863-ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/ESD5Z5.0T1G?qs=OSf9jACorvYw3fDx1S8P6A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D102" ("D102"); Footprint = "SODFL1608X70N"; UniqueID = "\DSNMWREU" ("\DSNMWREU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/esd5z5.0t1g/on-semiconductor?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "https://www.lcsc.com/product-detail/ESD-and-Surge-Protection-TVS-ESD_BORN-ESD5Z5-0T1G_C343989.html?s_z=n_ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/ESD5Z5.0T1G?qs=OSf9jACorvYw3fDx1S8P6A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "863-ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D103" ("D103"); Footprint = "SODFL1608X70N"; UniqueID = "\UBLMVQXS" ("\UBLMVQXS")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/esd5z5.0t1g/on-semiconductor?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "https://www.lcsc.com/product-detail/ESD-and-Surge-Protection-TVS-ESD_BORN-ESD5Z5-0T1G_C343989.html?s_z=n_ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/ESD5Z5.0T1G?qs=OSf9jACorvYw3fDx1S8P6A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "863-ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D104" ("D104"); Footprint = "SODFL1608X70N"; UniqueID = "\MHWUVTFI" ("\MHWUVTFI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/esd5z5.0t1g/on-semiconductor?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "https://www.lcsc.com/product-detail/ESD-and-Surge-Protection-TVS-ESD_BORN-ESD5Z5-0T1G_C343989.html?s_z=n_ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/ESD5Z5.0T1G?qs=OSf9jACorvYw3fDx1S8P6A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "863-ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D105" ("D105"); Footprint = "SODFL1608X70N"; UniqueID = "\AVXVKCJB" ("\AVXVKCJB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/esd5z5.0t1g/on-semiconductor?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "limk"; Value = "https://www.lcsc.com/product-detail/ESD-and-Surge-Protection-TVS-ESD_BORN-ESD5Z5-0T1G_C343989.html?s_z=n_ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "863-ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/ESD5Z5.0T1G?qs=OSf9jACorvYw3fDx1S8P6A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D301" ("D301"); Footprint = "SODFL1608X70N"; UniqueID = "\TEYIHEUM\LGZHSQHX" ("\TEYIHEUM\LGZHSQHX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/esd5z5.0t1g/on-semiconductor?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "https://www.lcsc.com/product-detail/ESD-and-Surge-Protection-TVS-ESD_BORN-ESD5Z5-0T1G_C343989.html?s_z=n_ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "863-ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/ESD5Z5.0T1G?qs=OSf9jACorvYw3fDx1S8P6A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J110" ("J110"); Footprint = "10119313301TLF"; UniqueID = "\KSYSCUUK" ("\KSYSCUUK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10119313.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = "https://www.lcsc.com/product-detail/USB-Connectors_hanxia-HX-MINI5P-T_C19189146.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "649-10119313-301TLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/10119313-301TLF?qs=QcFhgjUTvvrAeUuachPUXg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "HX MINI5P T"; VariantName = "[No Variations]"

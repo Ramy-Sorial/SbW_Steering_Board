@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ECU_Board.PcbDoc   1/30/2025  1:02:52 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer 1 to Bottom Layer 1
+ASCII RoundHoles File : ECU_Board.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             895       PTH        1900.24mm (74.81inch)
+T2      0.3mm (12mil)                                             Round             100       PTH        597.24mm (23.51inch)
+T3      0.32mm (13mil)                                            Round             1         PTH        0.00mm (0.00inch)
+T4      0.4mm (16mil)                                             Round             7         PTH        158.15mm (6.23inch)
+T5      0.5mm (20mil)                                             Round             2         PTH        9.24mm (0.36inch)
+T6      0.6mm (24mil)                                             Round             13        PTH        178.25mm (7.02inch)
+T7      1mm (39mil)                                               Round             17        PTH        81.79mm (3.22inch)
+T8      1.02mm (40mil)                                            Round             10        PTH        22.86mm (0.90inch)
+T9      1.1mm (43mil)                                             Round             16        PTH        38.10mm (1.50inch)
+T10     1.3mm (51mil)                                             Round             23        PTH        264.40mm (10.41inch)
+T11     1.6mm (63mil)                                             Round             3         PTH        127.56mm (5.02inch)
+T12     2.09mm (82mil)                                            Round             2         PTH        7.30mm (0.29inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1089
+
+Total Processing Time (hh:mm:ss) : 00:00:00
